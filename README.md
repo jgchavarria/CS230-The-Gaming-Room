@@ -2,10 +2,6 @@
 
 ## CS 230 Portfolio Reflection
 
-# CS230-The-Gaming-Room
-
-## CS 230 Portfolio Reflection
-
 The Gaming Room was the client for this project. They had an existing Android game called *Draw It or Lose It* and wanted to expand it so the game could work across multiple operating platforms. The software needed to support multiple players, teams, and game instances at the same time. The client also needed the application to be scalable, secure, and accessible through different devices using a web-based approach.
 
 One thing I did particularly well in developing this documentation was explaining the different platform options and connecting them back to the client’s needs. I was able to compare server-side, client-side, mobile, and cloud-based options while considering performance, scalability, security, and ease of maintenance. I also organized the design document in a way that made the information clear for both the client and the development team.
